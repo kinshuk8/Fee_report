@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: FeeReport
+
+jar cvfm name_of_jar_file.jar manifest.txt *.class
